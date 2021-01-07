@@ -26,9 +26,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `SP-S templates collection`,
+        short_name: `SP-S templates`,
+        description: `SP-S template collection Playful and Colorful`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
