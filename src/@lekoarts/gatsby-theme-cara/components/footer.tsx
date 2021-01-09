@@ -30,7 +30,7 @@ const Footer = () => {
           a: { color: `text` },
         }}
       >
-        <img height="30" src="/SP-S_logo-30h.jpg" alt="SPS Logo"/>        
+        <img height="30" src="/SP-53_30_logo.jpg" alt="SPS Logo"/>        
         <Link
           aria-label="Link to the theme's GitHub repository"
           sx={{ ml: 2 }}
