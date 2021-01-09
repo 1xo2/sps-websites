@@ -9,7 +9,7 @@ import Contact from "../../../../node_modules/@lekoarts/gatsby-theme-cara/src/co
 
 let isMobile = false;
 if (typeof window !== `undefined`)
-  isMobile = window.matchMedia("(max-width: 400px)").matches;
+  isMobile = window.matchMedia("(max-width: 400px)").matches; 
 
 const Cara = () => (
   <Layout>
