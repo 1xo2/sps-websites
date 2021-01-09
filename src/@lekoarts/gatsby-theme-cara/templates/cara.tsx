@@ -23,6 +23,7 @@ const Cara = () => (
     </Parallax>
   </Layout>
 )
+
 // const Cara = () => (
 //   <Layout>
 //     <Parallax pages={7}>
