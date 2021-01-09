@@ -22,7 +22,7 @@ const Cara = () => (
       <Contact offset={isMobile? 7:6} factor={1} />
     </Parallax>
   </Layout>
-) 
+)  
 
 // const Cara = () => (
 //   <Layout>
