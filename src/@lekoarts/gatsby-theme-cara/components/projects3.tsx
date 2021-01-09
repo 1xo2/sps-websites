@@ -1,14 +1,14 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import Divider from "../../../../node_modules/@lekoarts/gatsby-theme-cara/src/elements/divider"
-import Inner from "../../../../node_modules/@lekoarts/gatsby-theme-cara/src/elements/inner"
-import Content from "../../../../node_modules/@lekoarts/gatsby-theme-cara/src/elements/content"
+import Divider from "@lekoarts/gatsby-theme-cara/src/elements/divider"
+import Inner from "@lekoarts/gatsby-theme-cara/src/elements/inner"
+import Content from "@lekoarts/gatsby-theme-cara/src/elements/content"
 import SVG from "@lekoarts/gatsby-theme-cara/src/components/svg"
-import { UpDown, UpDownWide } from "../../../../node_modules/@lekoarts/gatsby-theme-cara/src/styles/animations"
+import { UpDown, UpDownWide } from "@lekoarts/gatsby-theme-cara/src/styles/animations"
 // @ts-ignore
-import ProjectsMDX from "../sections/projects2"
+import ProjectsMDX from "../sections/projects3"
 
-const Projects2 = ({ offset, factor = 2 }: { offset: number; factor?: number }) => (
+const Projects3 = ({ offset, factor = 2 }: { offset: number; factor?: number }) => (
   <div>
     <Divider
       bg="linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%)"
@@ -59,4 +59,4 @@ const Projects2 = ({ offset, factor = 2 }: { offset: number; factor?: number }) 
   </div>
 )
 
-export default Projects2
+export default Projects3
